@@ -8,6 +8,7 @@ As part of the PySport X SkillCorner Analytics Cup challenge, we have access to 
 The goal of this project is to visualize player performance through the use of two models related to action evaluation:
 - xThreat: The probability that a goal will be scored within 10 seconds if a given player were the target of a completed pass at a certain moment.
 - Expected Possession Value: Estimates the chances that a team will score within the next 90 seconds or before the ball goes out of play.
+
 To achieve this, several features are available:
 - 📊 Player Analysis: Analyze the player of your choice through these statistical indicators.
 - 🥇 Team Analysis</strong>: Aggregate statistics for the selected team.
