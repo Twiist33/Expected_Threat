@@ -14,7 +14,7 @@ To achieve this, several features are available:
 - 🔎 Match Analysis</strong>: Compare action evaluation statistics between the two teams.
 
 
-The project is available at this link: 
+The project is available at this link: https://expected-threat-a-league-24-25-romain-traboul.streamlit.app/
 
 
 
@@ -32,4 +32,4 @@ Pour cela, plusieurs fonctionnalités sont disponibles :
 - 🥇 Analyse d'une Équipe </strong> : Aggrégation des statistiques pour l'équipe choisie
 - 🔎 Analyse d'un match </strong> : Confrontation des statistiques liées à l'évaluation des actions de jeu entre les deux équipes
 
-Le projet est disponible sur ce lien : 
+Le projet est disponible sur ce lien : https://expected-threat-a-league-24-25-romain-traboul.streamlit.app/
