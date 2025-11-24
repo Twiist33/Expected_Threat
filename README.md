@@ -29,7 +29,7 @@ L'objectif de ce projet sera de visualiser les performances des joueurs à trave
 
 Pour cela, plusieurs fonctionnalités sont disponibles :
 - 📊 Analyse d'un Joueur : Analyse du joueur de votre choix à travers ces indicateurs statistiques
-- 🥇 Analyse d'une Équipe </strong> : Aggrégation des statistiques pour l'équipe choisie
-- 🔎 Analyse d'un match </strong> : Confrontation des statistiques liées à l'évaluation des actions de jeu entre les deux équipes
+- 🥇 Analyse d'une Équipe: Aggrégation des statistiques pour l'équipe choisie
+- 🔎 Analyse d'un match : Confrontation des statistiques liées à l'évaluation des actions de jeu entre les deux équipes
 
 Le projet est disponible sur ce lien : https://expected-threat-a-league-24-25-romain-traboul.streamlit.app/
