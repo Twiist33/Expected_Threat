@@ -456,9 +456,9 @@ def match_analysis():
             if center:
                 col_l, col_center, col_r = st.columns([1, 3, 1])
                 with col_center:
-                    st.dataframe(top5_display, use_container_width=True)
+                    st.dataframe(top5_display, width='stretch')
             else:
-                st.dataframe(top5_display, use_container_width=True)
+                st.dataframe(top5_display, width='stretch')
 
         center_tabs_css() # CSS function to center tabs
 
@@ -604,9 +604,9 @@ def match_analysis():
             if center:
                 col_g, col_center, col_d = st.columns([1, 3, 1])
                 with col_center:
-                    st.dataframe(top5_affiche, use_container_width=True)
+                    st.dataframe(top5_affiche, width='stretch')
             else:
-                st.dataframe(top5_affiche, use_container_width=True)
+                st.dataframe(top5_affiche, width='stretch')
 
         center_tabs_css() # Fonction CSS pour centrer les onglets
 
